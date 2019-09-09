@@ -1,0 +1,38 @@
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.World.dll
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\ZedGraph.dll
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.World.xml
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\SettingWindow.g.cs
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\SettingWindow.baml
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\ELA_Evaluation.csproj.GenerateResource.Cache
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\IKVM.Runtime.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\libsvm.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\LIBSVM.NET.dll
+C:\Users\chendiao\Desktop\ELA_image_forensics\ELA\bin\Debug\WpfApplication1.exe.config
+C:\Users\chendiao\Desktop\ELA_image_forensics\ELA\obj\Debug\WpfApplication1.exe
+C:\Users\chendiao\Desktop\ELA_image_forensics\ELA\obj\Debug\WpfApplication1.pdb

@@ -1,0 +1,144 @@
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\Emgu.CV.UI.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\Emgu.CV.UI.GL.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\Emgu.CV.World.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\ZedGraph.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\Emgu.CV.UI.xml
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\Emgu.CV.UI.GL.xml
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\Emgu.CV.World.xml
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\zh-Hans\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\SettingWindow.g.cs
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\SettingWindow.baml
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\ELA_Evaluation.csproj.GenerateResource.Cache
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\IKVM.OpenJDK.Charsets.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\IKVM.OpenJDK.Core.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\IKVM.OpenJDK.Security.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\IKVM.OpenJDK.Text.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\IKVM.OpenJDK.Util.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\Users\zly\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\IKVM.Runtime.dll
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\LibSVMsharp.dll
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\LibSVMsharp.pdb
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_Content.g.cs
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\ELA_Evaluation.csprojResolveAssemblyReference.cache
+C:\Users\zly\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\obj\Release\ELA_Evaluation.csprojResolveAssemblyReference.cache
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\obj\Release\SettingWindow.g.cs
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_Content.g.cs
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\Emgu.CV.UI.dll
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\Emgu.CV.UI.GL.dll
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\Emgu.CV.World.dll
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\IKVM.OpenJDK.Charsets.dll
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\IKVM.OpenJDK.Core.dll
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\IKVM.OpenJDK.Security.dll
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\IKVM.OpenJDK.Text.dll
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\IKVM.OpenJDK.Util.dll
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\IKVM.Runtime.dll
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\LibSVMsharp.dll
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\ZedGraph.dll
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\Emgu.CV.UI.xml
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\Emgu.CV.UI.GL.xml
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\Emgu.CV.World.xml
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\LibSVMsharp.pdb
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\bin\Release\zh-Hans\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\obj\Release\SettingWindow.baml
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\zly\Desktop\WpfApplication1\WpfApplication1\obj\Release\ELA_Evaluation.csproj.GenerateResource.Cache
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\WpfApplication1.exe.config
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\obj\Release\WpfApplication1.exe
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\obj\Release\WpfApplication1.pdb
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\WpfApplication1.exe
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\WpfApplication1.pdb
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\IKVM.OpenJDK.Charsets.dll
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\IKVM.OpenJDK.Core.dll
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\IKVM.OpenJDK.Security.dll
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\IKVM.OpenJDK.SwingAWT.dll
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\IKVM.OpenJDK.Text.dll
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\IKVM.OpenJDK.Util.dll
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\IKVM.OpenJDK.XML.API.dll
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\IKVM.Runtime.dll
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\LibSVMsharp.dll
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\ZedGraph.dll
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\Emgu.CV.UI.xml
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\Emgu.CV.UI.GL.xml
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\Emgu.CV.World.xml
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\LibSVMsharp.pdb
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\bin\Release\zh-Hans\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\obj\Release\ELA_Evaluation.csprojResolveAssemblyReference.cache
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\obj\Release\MainWindow.g.cs
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\obj\Release\SettingWindow.g.cs
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\obj\Release\App.g.cs
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\obj\Release\WpfApplication1_Content.g.cs
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\obj\Release\GeneratedInternalTypeHelper.g.cs
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\obj\Release\MainWindow.baml
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\obj\Release\SettingWindow.baml
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\obj\Release\WpfApplication1.g.resources
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+F:\毕业设计\ELA_Project(Binding)\WpfApplication1\obj\Release\ELA_Evaluation.csproj.GenerateResource.Cache
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\obj\Release\WpfApplication1.exe
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\obj\Release\WpfApplication1.pdb
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\IKVM.OpenJDK.Charsets.dll
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\IKVM.OpenJDK.Core.dll
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\IKVM.OpenJDK.Security.dll
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\IKVM.OpenJDK.Text.dll
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\IKVM.OpenJDK.Util.dll
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\IKVM.Runtime.dll
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\LibSVMsharp.dll
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\ZedGraph.dll
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\Emgu.CV.UI.xml
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\Emgu.CV.UI.GL.xml
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\Emgu.CV.World.xml
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\LibSVMsharp.pdb
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\bin\Release\zh-Hans\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\obj\Release\ELA_Evaluation.csprojResolveAssemblyReference.cache
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\obj\Release\SettingWindow.g.cs
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\obj\Release\App.g.cs
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\obj\Release\WpfApplication1_Content.g.cs
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\obj\Release\SettingWindow.baml
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\obj\Release\WpfApplication1.g.resources
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\chendiao\Desktop\ELA_Project(Binding)\WpfApplication1\obj\Release\ELA_Evaluation.csproj.GenerateResource.Cache
